@@ -1,3 +1,4 @@
+<?php
 $a = 10; $b = 2;
 if ($b != 0) {
     echo "Wynik: " . ($a / $b);
@@ -62,3 +63,4 @@ if (($c1 % 2 == 0 && $c2 % 2 == 0) || ($c1 + $c2 == 4)) {
 } else {
     echo "Warunek nie jest spełniony.";
 }
+?>
